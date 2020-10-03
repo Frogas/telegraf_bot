@@ -1,0 +1,13 @@
+{
+  "name": "telegraf_bot",
+  "version": "1.0.0",
+  "description": "bot telegam dengan framework telegraf",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Shikukiza",
+  "dependencies": {
+    "telegraf": "^3.17.0"
+  }
+}
